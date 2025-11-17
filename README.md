@@ -14,7 +14,7 @@
 
 # 📄 About Me
 
-I’m Garv, a CSE (AI/ML) student who enjoys building web applications and learning new technologies at a steady pace.  
+I’m Garv, a CSE (AI/ML) student who enjoys building web applications and learning new technologies.  
 I keep my work simple, structured, and focused on improvement.
 
 - 🌱 Currently learning: **React, Backend, Python DSA**  
@@ -90,4 +90,16 @@ I keep my work simple, structured, and focused on improvement.
 # 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com
+  <a href="https://www.linkedin.com/in/garv-gogna-29b6ab302/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:garvgogna1606@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00eaff,50:ff00f7,100:00ff9d&section=footer" />
+</p>
