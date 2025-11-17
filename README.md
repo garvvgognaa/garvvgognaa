@@ -49,32 +49,53 @@ I keep my work simple, structured, and focused on improvement.
 
 # 📌 Projects
 
-<p align="center">
+<div align="center">
 
-<!-- 🔥 NEW: PERSONAL PORTFOLIO ADDED -->
+<table>
+<tr>
+<td align="center">
+  
 <a href="https://dreamy-cajeta-99c988.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Personal%20Portfolio-00FFF2?style=for-the-badge&logo=firefox&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Portfolio-00FFF2?style=for-the-badge&logo=firefox&logoColor=000000" />
 </a>
+<p><b>Personal Portfolio Website</b></p>
 
-<br/><br/>
+</td>
+
+<td align="center">
 
 <a href="https://tech-news-aggregator.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Tech%20News%20Aggregator-FF00F7?style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/News%20Aggregator-FF00F7?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
+<p><b>Tech News Aggregator</b></p>
 
-<br/>
+</td>
+
+</tr>
+<tr>
+
+<td align="center">
 
 <a href="https://2048-game-xjei-git-main-garvs-projects-aff2cc12.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/2048%20Game%20(React)-9D00FF?style=for-the-badge&logo=react&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/2048%20Game-9D00FF?style=for-the-badge&logo=react&logoColor=00F0FF" />
 </a>
+<p><b>2048 Game in React</b></p>
 
-<br/>
+</td>
+
+<td align="center">
 
 <a href="https://color-personality-quiz.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Personality%20App-00FF9D?style=for-the-badge&logo=sparkles&logoColor=000000" />
 </a>
+<p><b>Personality App</b></p>
 
-</p>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
