@@ -1,10 +1,16 @@
-# Hi 👋, I'm Garv Gogna
-🚀 Aspiring Developer | B.Tech CSE (AI/ML) @ Newton School of Technology  
+---
 
-## 🧑‍💻 About Me
-- 🔭 I’m currently working on **Web Projects**
-- 🌱 Learning **React.js, Python DSA, AI/ML, Backend, Database**
-- 💡 Interested in building impactful tech solutions  
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  I’m Garv, an aspiring developer and B.Tech CSE (AI/ML) student at 
+  <b>Newton School of Technology</b>.<br/>
+  I love building <b>web apps</b>, exploring <b>AI/ML</b>, and sharpening my <b>Python DSA</b> skills.
+</p>
+
+- 🌱 Currently working on: **Web projects, React.js, Python DSA, Backend & Databases**
+- 🎯 Goal: **Build impactful, real-world tech products**
+- 💡 Fun side: I enjoy experimenting with new UI ideas and micro-interactions
 
 ## 🛠️ Skills
 - Frontend: React, JavaScript, HTML, CSS  
