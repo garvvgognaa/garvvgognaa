@@ -51,19 +51,26 @@ I keep my work simple, structured, and focused on improvement.
 
 <p align="center">
 
-<a href="https://tech-news-aggregator.netlify.app/">
+<!-- 🔥 NEW: PERSONAL PORTFOLIO ADDED -->
+<a href="https://dreamy-cajeta-99c988.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Personal%20Portfolio-00FFF2?style=for-the-badge&logo=firefox&logoColor=000000" />
+</a>
+
+<br/><br/>
+
+<a href="https://tech-news-aggregator.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Tech%20News%20Aggregator-FF00F7?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
 <br/>
 
-<a href="https://2048-game-xjei-git-main-garvs-projects-aff2cc12.vercel.app/">
+<a href="https://2048-game-xjei-git-main-garvs-projects-aff2cc12.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/2048%20Game%20(React)-9D00FF?style=for-the-badge&logo=react&logoColor=00F0FF" />
 </a>
 
 <br/>
 
-<a href="https://color-personality-quiz.vercel.app/">
+<a href="https://color-personality-quiz.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Personality%20App-00FF9D?style=for-the-badge&logo=sparkles&logoColor=000000" />
 </a>
 
