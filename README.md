@@ -1,50 +1,54 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Garv%20Gogna&fontSize=36&fontColor=FFFFFF&color=0:141E30,100:243B55" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=Garv%20Gogna&fontSize=34&fontColor=FFFFFF&color=0:141E30,100:243B55" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=AI+%7C+Full+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Systems;Clean+Architecture+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=19&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=620&lines=AI+%7C+Full+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Systems" />
 </p>
 
 ---
 
 <p align="center">
-  Designing and engineering scalable web systems with structured backend architecture and modern frontend execution.
+  Designing scalable web systems with structured backend architecture and clean frontend implementation.
 </p>
 
 ---
 
-<h3 align="center">Technology Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,mongodb,mysql,git,github,vscode&theme=dark" height="65"/>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,mongodb,mysql,git,github,vscode&theme=dark" height="60"/>
 </p>
 
 ---
 
-<h3 align="center">Performance Overview</h3>
+<h3 align="center">GitHub Analytics</h3>
 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=garvvgognaa&show_icons=true&theme=radical&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&hide_border=true" 
-    height="190"
+    height="180"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=garvvgognaa&theme=radical&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&hide_border=true" 
-    height="190"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvvgognaa&layout=compact&theme=radical&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&hide_border=true" 
-    height="170"
+    height="180"
   />
 </p>
 
 ---
 
-<h3 align="center">Development Activity</h3>
+<h3 align="center">Language Distribution</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvvgognaa&layout=donut&theme=radical&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&hide_border=true" 
+    height="200"
+  />
+</p>
+
+---
+
+<h3 align="center">Contribution Activity</h3>
 
 <p align="center">
   <img 
@@ -55,11 +59,12 @@
 
 ---
 
-<h3 align="center">Skill Distribution</h3>
+<h3 align="center">Achievements</h3>
 
 <p align="center">
   <img 
-    src="https://quickchart.io/chart?c={type:'pie',data:{labels:['Frontend','Backend','Python','Databases','DevOps'],datasets:[{data:[30,30,20,15,5],backgroundColor:['#00E5FF','#7F5AF0','#00C9A7','#3A86FF','#8338EC']}]} ,options:{plugins:{legend:{labels:{color:'white'}}}}}&backgroundColor=%230D1117&width=500&height=300" 
+    src="https://github-profile-trophy.vercel.app/?username=garvvgognaa&theme=radical&no-frame=false&no-bg=false&margin-w=12&column=6" 
+    width="100%"
   />
 </p>
 
