@@ -1,63 +1,43 @@
-<!-- ============================================================ -->
-<!-- GARV GOGNA — Futuristic AI Theme -->
-<!-- ============================================================ -->
+<!-- ========================================================== -->
+<!-- GARV GOGNA — FUTURISTIC AI PROFILE -->
+<!-- ========================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000428,50:004e92,100:00f2fe&text=GARV%20GOGNA&fontAlign=50&fontSize=70&fontColor=ffffff&animation=fadeIn&stroke=00f2fe&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=GARV%20GOGNA&fontSize=75&fontColor=00F2FE&animation=fadeIn&stroke=00F2FE&strokeWidth=2&color=0:050A30,50:000000,100:001F3F" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&lines=AI+%7C+Full+Stack+Developer;Building+Intelligent+Web+Systems;Scalable+Backend+Architecture;Continuous+Learning+Mode+Enabled" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=1100&lines=AI+%7C+Full+Stack+Developer;Building+Scalable+Web+Systems;Backend+Engineering+Focused;Continuous+Learning+Mode+Enabled" />
 </p>
 
 ---
 
-<h2 align="center">PROFILE INITIALIZATION</h2>
+<h2 align="center">SYSTEM PROFILE</h2>
 
 ```yaml
 Name: Garv Gogna
-Field: Computer Science (AI / ML)
-Core Interest: Intelligent Web Applications
-Primary Focus: React • Backend Systems • DSA
-Development Philosophy: Precision • Performance • Scalability
+Domain: Computer Science (AI / ML)
+Specialization: Full Stack Development
+Core Stack: React • Node • Express • Python
+Focus Area: Clean Architecture • Performance • Scalability
 ```
 
-Focused on building high-performance applications with structured architecture and clean implementation.  
-Currently strengthening backend engineering, advanced React patterns, and algorithmic problem solving.
+Focused on engineering structured, intelligent web systems with scalable backend architecture and efficient frontend execution.
 
 ---
 
-<h2 align="center">ACTIVE DEVELOPMENT ZONES</h2>
+<h2 align="center">TECH STACK</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvvgognaa&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,mongodb,mysql,git,github,vscode&theme=dark" height="60"/>
 </p>
 
 ---
 
-<h2 align="center">TECHNOLOGY MATRIX</h2>
+<h2 align="center">DEVELOPMENT ACTIVITY GRAPH</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,mongodb,mysql,git,github,vscode&theme=dark" />
-</p>
-
----
-
-<h2 align="center">FEATURED SYSTEMS</h2>
-
-<p align="center">
-  <a href="https://dreamy-cajeta-99c988.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_System-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" />
-  </a>
-  <a href="https://tech-news-aggregator.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Tech_News_AI-000000?style=for-the-badge&logo=googlechrome&logoColor=00F2FE" />
-  </a>
-  <a href="https://2048-game-xjei-git-main-garvs-projects-aff2cc12.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/2048_React_Engine-000000?style=for-the-badge&logo=react&logoColor=00F2FE" />
-  </a>
-  <a href="https://color-personality-quiz.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Color_AI_Personality-000000?style=for-the-badge&logo=appveyor&logoColor=00F2FE" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvvgognaa&bg_color=0D1117&color=00F2FE&line=00F2FE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -65,25 +45,44 @@ Currently strengthening backend engineering, advanced React patterns, and algori
 <h2 align="center">PERFORMANCE ANALYTICS</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garvvgognaa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=00F2FE&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=garvvgognaa&theme=react&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" />
+  <img src="https://github-readme-stats.vercel.app/api?username=garvvgognaa&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00F2FE&text_color=FFFFFF&icon_color=00F2FE&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvvgognaa&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&hide_border=true" height="200"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvvgognaa&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvvgognaa&layout=compact&bg_color=0D1117&title_color=00F2FE&text_color=FFFFFF&hide_border=true" height="200"/>
 </p>
 
 ---
 
-<h2 align="center">ACHIEVEMENT GRID</h2>
+<h2 align="center">FEATURED PROJECT SYSTEMS</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=garvvgognaa&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
+  <a href="https://dreamy-cajeta-99c988.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_System-000000?style=for-the-badge&logo=vercel&logoColor=00F2FE" />
+  </a>
+  <a href="https://tech-news-aggregator.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech_News_Engine-000000?style=for-the-badge&logo=googlechrome&logoColor=00F2FE" />
+  </a>
+  <a href="https://2048-game-xjei-git-main-garvs-projects-aff2cc12.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/2048_React_Core-000000?style=for-the-badge&logo=react&logoColor=00F2FE" />
+  </a>
+  <a href="https://color-personality-quiz.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/AI_Color_System-000000?style=for-the-badge&logo=appveyor&logoColor=00F2FE" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">NETWORK LINK</h2>
+<h2 align="center">ACHIEVEMENT MATRIX</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=garvvgognaa&theme=matrix&no-frame=true&no-bg=true&margin-w=20" />
+</p>
+
+---
+
+<h2 align="center">CONNECT NETWORK</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/garv-gogna-29b6ab302/">
@@ -97,5 +96,5 @@ Currently strengthening backend engineering, advanced React patterns, and algori
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:000428,50:004e92,100:00f2fe&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:050A30,50:000000,100:001F3F&section=footer" />
 </p>
