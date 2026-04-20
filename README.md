@@ -1,101 +1,162 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=Garv%20Gogna&fontSize=34&fontColor=FFFFFF&color=0:141E30,100:243B55" />
-</p>
+<h1 align="center">Hi 👋, I'm Garv</h1>
+<h3 align="center">🚀 B.Tech CSE Student | Aspiring Software Developer</h3>
+
+![Profile views](https://komarev.com/ghpvc/?username=garv&label=Profile%20views&color=0e75b6&style=flat)
+
+<div align="center">
+
+```
+ ██████╗  █████╗ ██████╗ ██╗   ██╗
+██╔════╝ ██╔══██╗██╔══██╗██║   ██║
+██║  ███╗███████║██████╔╝██║   ██║
+██║   ██║██╔══██║██╔══██╗╚██╗ ██╔╝
+╚██████╔╝██║  ██║██║  ██║ ╚████╔╝ 
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM%3A+CONNECTED;USER%3A+Garv;ROLE%3A+Software+Developer;STATUS%3A+BUILDING+PROJECTS" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ NEURAL INTERFACE ACTIVATED ⚡
+
+</div>
+
+<img align="right" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+
+```bash
+> ACCESS GRANTED: Garv
+> ROLE: Developer
+> LOCATION: India
+> STATUS: Building real-world projects
+```
+
+**🔬 BIO_DATA:**  
+🚀 Passionate developer focused on building real-world applications using modern web technologies.  
+I enjoy solving problems, designing clean UIs, and turning ideas into working products.
+
+**⚡ FOCUS:**  
+- Web Development  
+- Data Structures & Algorithms  
+- Scalable Applications  
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 🚀 PROJECT ARCHIVES 🚀
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 💸 Fiizor (Financial Advisory Platform)
+
+```
+STATUS: DEPLOYED
+ACCESS: PUBLIC
+```
+
+A financial advisory website designed to help users understand and manage their finances effectively with a clean UI and structured insights.
+
+**TECH_STACK:** `React, JavaScript, CSS`
+
+[![LIVE](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fiizor.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### 🏋️ Fitness Class Scheduler
+
+```
+STATUS: DEPLOYED
+ACCESS: PUBLIC
+```
+
+A scheduling platform that allows users to manage and organize fitness classes efficiently with a smooth and responsive interface.
+
+**TECH_STACK:** `React, JavaScript, CSS`
+
+[![LIVE](https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fitness-class-scheduler.vercel.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💻 TECH STACK 💻
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=19&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=620&lines=AI+%7C+Full+Stack+Developer;Backend+Focused+Engineer;Building+Scalable+Systems" />
+<img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,nodejs,python,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
+<div align="center">
+
+## 📊 GITHUB STATS 📊
+
+</div>
+
 <p align="center">
-  Designing scalable web systems with structured backend architecture and clean frontend implementation.
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" />
+<img src="https://streak-stats.demolab.com?user=your-username&theme=radical" width="48%" />
 </p>
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,python,mongodb,mysql,git,github,vscode&theme=dark" height="60"/>
-</p>
+## 🔬 CURRENT LEARNING 🔬
 
----
+</div>
 
-<h3 align="center">GitHub Analytics</h3>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=garvvgognaa&show_icons=true&theme=radical&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&hide_border=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=garvvgognaa&theme=radical&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&hide_border=true" 
-    height="180"
-  />
-</p>
+```bash
+> LEARNING: React (Advanced), DSA, Backend Development
+> GOAL: Build scalable real-world applications
+> NEXT_TARGET: Internship / Real-world experience
+```
 
 ---
 
-<h3 align="center">Language Distribution</h3>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvvgognaa&layout=donut&theme=radical&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&hide_border=true" 
-    height="200"
-  />
-</p>
+## 🌐 CONNECT WITH ME 🌐
 
----
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
+</a>
 
-<h3 align="center">Contribution Activity</h3>
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=garvvgognaa&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" 
-    width="100%"
-  />
-</p>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
-<h3 align="center">Achievements</h3>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=garvvgognaa&theme=radical&no-frame=false&no-bg=false&margin-w=12&column=6" 
-    width="100%"
-  />
-</p>
+```
+> STATUS: BUILDING | LEARNING | GROWING
+```
 
----
-
-<h3 align="center">Featured Projects</h3>
-
-<p align="center">
-  <a href="https://dreamy-cajeta-99c988.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF" />
-  </a>
-  <a href="https://tech-news-aggregator.netlify.app/">
-    <img src="https://img.shields.io/badge/Tech%20News-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" />
-  </a>
-  <a href="https://2048-game-xjei-git-main-garvs-projects-aff2cc12.vercel.app/">
-    <img src="https://img.shields.io/badge/2048%20Game-0D1117?style=for-the-badge&logo=react&logoColor=00E5FF" />
-  </a>
-  <a href="https://color-personality-quiz.vercel.app/">
-    <img src="https://img.shields.io/badge/Personality%20App-0D1117?style=for-the-badge&logo=appveyor&logoColor=00E5FF" />
-  </a>
-</p>
-
----
-
-<h3 align="center">Connect</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/garv-gogna-29b6ab302/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
-  </a>
-  <a href="mailto:garvgogna1606@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
-  </a>
-</p>
+</div>
