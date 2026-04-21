@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Developer | Building Real World Projects</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="250" alt="Developer GIF" />
+  <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="100%" alt="Developer GIF" />
 </p>
 
 <p align="center">
