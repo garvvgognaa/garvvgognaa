@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=60&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=GARV+GOGNA" alt="Name Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=900&size=80&duration=9999999&pause=9999999&color=FFFFFF&background=000000&center=true&vCenter=true&width=900&height=200&lines=GARV+GOGNA" alt="GARV GOGNA" />
 </p>
 
 <p align="center">
