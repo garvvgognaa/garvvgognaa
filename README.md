@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=60&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=GARV+GOGNA" alt="Name Banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things;Building+Cool+Projects+🚀" />
 </p>
 
